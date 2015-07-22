@@ -1,0 +1,111 @@
+{
+    "appKeys": {
+        "KEY_ACTION": 0,
+        "KEY_CUSTOM_HOME": 5,
+        "KEY_CUSTOM_MSG": 6,
+        "KEY_NAVI_LAT": 11,
+        "KEY_NAVI_LNG": 12,
+        "KEY_WEATHER_COND": 2,
+        "KEY_WEATHER_OVER": 4,
+        "KEY_WEATHER_POS": 3,
+        "KEY_WEATHER_TEMP": 1
+    },
+    "capabilities": [
+        "location"
+    ],
+    "companyName": "m320ng@gmail.com",
+    "longName": "DDoWatch",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/ddochi_head1.png",
+                "name": "IMAGE_DDOCHI_HEAD1",
+                "type": "png"
+            },
+            {
+                "file": "images/rain2.png",
+                "name": "IMAGE_OVER_RAIN2",
+                "type": "png"
+            },
+            {
+                "file": "images/rain1.png",
+                "name": "IMAGE_OVER_RAIN1",
+                "type": "png"
+            },
+            {
+                "file": "images/custom_msg.png",
+                "name": "IMAGE_CUSTOM_MSG_BG",
+                "type": "png"
+            },
+            {
+                "file": "images/batt_f.png",
+                "name": "IMAGE_BATT_FULL_ICON",
+                "type": "png"
+            },
+            {
+                "file": "images/batt_e.png",
+                "name": "IMAGE_BATT_EMPTY_ICON",
+                "type": "png"
+            },
+            {
+                "file": "images/batt_c.png",
+                "name": "IMAGE_BATT_CHG_ICON",
+                "type": "png"
+            },
+            {
+                "file": "images/batt_75.png",
+                "name": "IMAGE_BATT_75_ICON",
+                "type": "png"
+            },
+            {
+                "file": "images/batt_50.png",
+                "name": "IMAGE_BATT_50_ICON",
+                "type": "png"
+            },
+            {
+                "file": "images/batt_25.png",
+                "name": "IMAGE_BATT_25_ICON",
+                "type": "png"
+            },
+            {
+                "file": "images/sec_bg.png",
+                "name": "IMAGE_SEC_BG",
+                "type": "png"
+            },
+            {
+                "file": "images/ddochi_eye.png",
+                "name": "IMAGE_DDOCHI_EYE",
+                "type": "png"
+            },
+            {
+                "file": "images/ddochi_2.png",
+                "name": "IMAGE_DDOCHI_BODY2",
+                "type": "png"
+            },
+            {
+                "file": "images/ddochi_1.png",
+                "name": "IMAGE_DDOCHI_BODY1",
+                "type": "png"
+            },
+            {
+                "file": "images/bluetooth_icon.png",
+                "name": "IMAGE_BLUETOOTH_ICON",
+                "type": "png"
+            },
+            {
+                "file": "images/talk_time.png",
+                "name": "IMAGE_TALKING_TIME",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "ddowatch",
+    "uuid": "18e97190-3f0b-45e4-a7bb-7f33aa4e28d9",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
